@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jalbin1307&title=Commit,Repo,MultiLanguages&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jalbin1307&title=Commit,Repo,Lang&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- [![Jalbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jalbin1307)](https://github.com/anuraghazra/github-readme-stats) -->
 
