@@ -2,7 +2,7 @@
 <!-- [![Jalbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jalbin1307)](https://github.com/anuraghazra/github-readme-stats) -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=Jalbin1307&title=Commit,Repo,MultiLang&theme=juicyfresh)
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Jalbin1307&theme=juicyfresh) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalbin1307&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jalbin1307&layout=compact) -->
 <!--
 **Jalbin1307/Jalbin1307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
